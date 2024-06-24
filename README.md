@@ -1,4 +1,4 @@
-
+![logo](https://github.com/khuzaima2182/khuzaima2182/blob/main/Data%20Scientist.png)
 <h1 align="center">Hi 👋, I'm Khuzaima Ayaz</h1>
 <h3 align="center">Pioneering Data Scientist from Pakistan</h3>
 
